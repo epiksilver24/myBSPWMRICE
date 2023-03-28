@@ -1,3 +1,8 @@
 // polybar al ponerlo una pantalla ene completa 
 bspc rule -a Polybar state=hidden
 bspc rule -a Polybar state=floating sticky=off center=off
+
+// zshrc
+hay que instalar los pluggins de autosugestions
+syntax highlight
+power 10 k
